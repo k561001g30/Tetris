@@ -34,13 +34,7 @@ It will no change when Key in "UP".
 
 So,in array it will take value as following
 
-0,0,0,0
-
-0,1,1,0
-
-0,1,1,0
-
-0,0,0,0
+![image]https://github.com/k561001g30/Tetris/blob/main/O.PNG
 
 # Type 2:I to Array[4][4]
 
@@ -48,6 +42,7 @@ It will change the shape when Key in "UP".
 
 So,in array it will take value as following
 
+![image]https://github.com/k561001g30/Tetris/blob/main/I.PNG
 
 # Type 3:S,Z to Array[4][4]
 
